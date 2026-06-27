@@ -1,0 +1,16 @@
+
+.to{
+    height:640px;
+    width: 360px;
+    background-image:url("https://ik.imagekit.io/p5zadqr6s/todolistbg.webp");
+    background-size: cover;
+    color: white;
+}
+button{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 2px double black;
+    background-color: orangered;
+}
